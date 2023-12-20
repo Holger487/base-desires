@@ -5,8 +5,8 @@ import { TFactionWarscrolls } from "../types";
 const Warscrolls: TFactionWarscrolls = {
     faction: "cities of sigmar",
     warscrolls: {
-        "Anointed" : {
-            baseSize: "25mm",
+        "Pontifex Zenestra" : {
+            baseSize: "90x52mm",
             notes: "",
         },
         "Assassin" : {
@@ -77,8 +77,8 @@ const Warscrolls: TFactionWarscrolls = {
             baseSize: "25mm",
             notes: "",
         },
-        "Eternal Guard" : {
-            baseSize: "25mm",
+        "Tahlia Vedra" : {
+            baseSize: "100mm",
             notes: "",
         },
         "Executioners" : {
@@ -89,44 +89,44 @@ const Warscrolls: TFactionWarscrolls = {
             baseSize: "25mm",
             notes: "",
         },
-        "Flamespyre Phoenix" : {
-            baseSize: "120 x 92mm",
+        "Fusil-Major on Ogor Warhulk" : {
+            baseSize: "50mm",
             notes: "",
         },
-        "Freeguild Crossbowmen" : {
-            baseSize: "25mm",
+        "Freeguild Marshal and Relic Envoy" : {
+            baseSize: "1x32mm, 1x28mm",
             notes: "",
         },
-        "Freeguild General" : {
-            baseSize: "25mm",
+        "Freeguild Cavalier-Marshal" : {
+            baseSize: "75x42mm",
             notes: "",
         },
         "Freeguild General on Griffon" : {
             baseSize: "120 x 92mm",
             notes: "",
         },
-        "Freeguild Greatswords" : {
+        "Freeguild Steelhelms" : {
             baseSize: "25mm",
             notes: "",
         },
-        "Freeguild Guard" : {
-            baseSize: "25mm",
+        "Freeguild Fusiliers" : {
+            baseSize: "28mm",
             notes: "",
         },
-        "Freeguild Handgunners" : {
-            baseSize: "25mm",
+        "Freeguild Command corps" : {
+            baseSize: "1x25mm, 1x40mm, 4x28mm",
             notes: "",
         },
-        "Freeguild Outriders" : {
+        "Freeguild Cavaliers" : {
             baseSize: "60 x 35mm",
             notes: "",
         },
-        "Freeguild Pistoliers" : {
-            baseSize: "60 x 35mm",
+        "Alchemite-Warforger" : {
+            baseSize: "32mm",
             notes: "",
         },
-        "Frostheart Phoenix" : {
-            baseSize: "120 x 92mm",
+        "Ironweld Great Cannon" : {
+            baseSize: "90mm",
             notes: "",
         },
         "Galen ven Denst" : {
@@ -143,14 +143,6 @@ const Warscrolls: TFactionWarscrolls = {
         },
         "Hammerers" : {
             baseSize: "25mm",
-            notes: "",
-        },
-        "Helblaster Volley Gun" : {
-            baseSize: "90 x 52mm",
-            notes: "",
-        },
-        "Helstorm Rocket Battery" : {
-            baseSize: "90 x 52mm",
             notes: "",
         },
         "Ironbreakers" : {
@@ -172,15 +164,7 @@ const Warscrolls: TFactionWarscrolls = {
         "Luminark of Hysh" : {
             baseSize: "120 x 92mm",
             notes: "",
-        },
-        "Nomad Prince" : {
-            baseSize: "32mm",
-            notes: "",
-        },
-        "Phoenix Guard" : {
-            baseSize: "25mm",
-            notes: "",
-        },
+       },
         "Runelord" : {
             baseSize: "25mm",
             notes: "",
@@ -188,19 +172,7 @@ const Warscrolls: TFactionWarscrolls = {
         "Scourgerunner Chariots" : {
             baseSize: "120 x 92mm",
             notes: "",
-        },
-        "Shadow Warriors" : {
-            baseSize: "25mm",
-            notes: "",
-        },
-        "Sisters of the Thorn" : {
-            baseSize: "60 x 35mm",
-            notes: "",
-        },
-        "Sisters of the Watch" : {
-            baseSize: "25mm",
-            notes: "",
-        },
+       },
         "Sorceress" : {
             baseSize: "25mm",
             notes: "",
@@ -218,14 +190,6 @@ const Warscrolls: TFactionWarscrolls = {
             notes: "",
         },
         "Warden King" : {
-            baseSize: "25mm",
-            notes: "",
-        },
-        "Wild Riders" : {
-            baseSize: "60 x 35mm",
-            notes: "",
-        },
-        "Wildwood Rangers" : {
             baseSize: "25mm",
             notes: "",
         },
