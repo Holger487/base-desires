@@ -9,6 +9,10 @@ const Warscrolls: TFactionWarscrolls = {
             baseSize: "32mm",
             notes: "",
         },
+        "Auric Flamekeeper" : {
+            baseSize: "32mm",
+            notes: "",
+        },
         "Auric Runefather" : {
             baseSize: "32mm",
             notes: "",
