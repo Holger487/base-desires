@@ -28,11 +28,7 @@ const Warscrolls: TFactionWarscrolls = {
         "Brewgit" : {
             baseSize: "32mm",
             notes: "",
-        },
-        "Colossal Squig" : {
-            baseSize: "120 x 92mm",
-            notes: "",
-        },
+       },
         "Dankhold Troggboss" : {
             baseSize: "60mm",
             notes: "",
@@ -129,6 +125,10 @@ const Warscrolls: TFactionWarscrolls = {
             baseSize: "32mm",
             notes: "",
         },
+        "Snarlfang Riders" : {
+            baseSize: "60x35mm",
+            notes: "",
+        },
         "Spider Riders" : {
             baseSize: "60 x 35mm",
             notes: "",
@@ -141,8 +141,8 @@ const Warscrolls: TFactionWarscrolls = {
             baseSize: "32mm",
             notes: "",
         },
-        "Squig Gobba" : {
-            baseSize: "120 x 92mm",
+        "Squigboss" : {
+            baseSize: "32mm",
             notes: "",
         },
         "Squig Herd" : {
@@ -157,8 +157,8 @@ const Warscrolls: TFactionWarscrolls = {
             baseSize: "25mm",
             notes: "",
         },
-        "Troggoth Hag" : {
-            baseSize: "120 x 92mm",
+        "Trugg" : {
+            baseSize: "100mm",
             notes: "",
         },
         "Webspinner Shaman" : {
