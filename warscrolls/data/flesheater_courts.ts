@@ -66,7 +66,31 @@ const Warscrolls: TFactionWarscrolls = {
             notes: "",
         },
         "Varghulf Courtier" : {
-            baseSize: "60mm",
+            baseSize: "90x52mm",
+            notes: "",
+        },
+        "Morbheg Knights" : {
+            baseSize: "75x42mm",
+            notes: "",
+        },
+        "Abhorrant Gorewarden" : {
+            baseSize: "40mm",
+            notes: "",
+        },
+        "Abhorrant Cardinal" : {
+            baseSize: "32mm",
+            notes: "",
+        },
+        "Marrowscroll Herald" : {
+            baseSize: "32mm",
+            notes: "",
+        },
+        "Cryptguard" : {
+            baseSize: "25mm",
+            notes: "",
+        },
+        "Royal Beastflayers" : {
+            baseSize: "3x25mm, 3x28mm, 2x32mm, 2x40mm",
             notes: "",
         },
     }
