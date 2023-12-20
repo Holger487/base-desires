@@ -37,6 +37,10 @@ const Warscrolls: TFactionWarscrolls = {
             baseSize: "120 x 92mm",
             notes: "",
         },
+        "High Gladiatrix" : {
+            baseSize: "32mm",
+            notes: "",
+        },
         "Khinerai Heartrenders" : {
             baseSize: "40mm",
             notes: "",
