@@ -57,6 +57,10 @@ const Warscrolls: TFactionWarscrolls = {
             baseSize: "120 x 92mm",
             notes: "",
         },
+        "Claws of karanak" : {
+            baseSize: "1x60x35mm, 1x40mm, 2x32mm, 4x28mm",
+            notes: "",
+        },
         "Exalted Deathbringer with Bloodbite Axe" : {
             baseSize: "40mm",
             notes: "",
@@ -115,6 +119,10 @@ const Warscrolls: TFactionWarscrolls = {
         },
         "Mighty Skullcrushers" : {
             baseSize: "90 x 52mm",
+            notes: "",
+        },
+        "Realmgore Ritualist" : {
+            baseSize: "32mm",
             notes: "",
         },
         "Riptooth" : {
