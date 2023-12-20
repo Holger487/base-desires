@@ -6,7 +6,7 @@ const Warscrolls: TFactionWarscrolls = {
     faction: "beasts of chaos",
     warscrolls: {
         "Beastlord" : {
-            baseSize: "32mm",
+            baseSize: "40mm",
             notes: "",
         },
         "Bestigors" : {
